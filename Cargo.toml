@@ -1,0 +1,11 @@
+[package]
+name = "crooks"
+version = "0.1.0"
+edition = "2021"
+authors = ["rich@maths.earth"]
+
+[dependencies]
+rand = "0.8"
+rayon = "1.5"
+image = "0.24"
+minifb = "0.15"
